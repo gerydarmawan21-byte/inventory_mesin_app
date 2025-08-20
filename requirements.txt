@@ -1,8 +1,0 @@
-streamlit==1.26.0
-pandas
-sqlalchemy
-bcrypt
-qrcode
-matplotlib
-openpyxl
-
