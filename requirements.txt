@@ -1,6 +1,8 @@
 streamlit==1.26.0
 pandas
 sqlalchemy
-openpyxl
+bcrypt
 qrcode
 matplotlib
+openpyxl
+
