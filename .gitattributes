@@ -1,0 +1,11 @@
+track filter=lfs diff=lfs merge=lfs -text
+*.pklgit filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.xlsxgit filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.filetype filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.xlsgit filter=lfs diff=lfs merge=lfs -text
+*.dbgit filter=lfs diff=lfs merge=lfs -text
+*.sqlitegit filter=lfs diff=lfs merge=lfs -text
